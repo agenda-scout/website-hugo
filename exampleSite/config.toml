@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
-baseurl = "http://examplesite.com/"
-title = "Vex | hugo landing page template"
+baseurl = "http://agendascout.app/"
+title = "AgendaScout | Local agendas straight to your email"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
@@ -67,15 +67,15 @@ name = "Contact"
 url = "contact"
 weight = 2
 
-[[menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions"
-weight = 3
+# [[menu.footer]]
+# name = "Terms & Conditions"
+# url = "terms-conditions"
+# weight = 3
 
-[[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 4
+# [[menu.footer]]
+# name = "Privacy Policy"
+# url = "privacy-policy"
+# weight = 4
 
 
 ########################### Default parameters ##########################
@@ -115,5 +115,5 @@ languageCode = "en-us"
 contentDir = "content"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "© 2021 AgendaScout"
 
