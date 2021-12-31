@@ -20,10 +20,10 @@ sections:
   templates:
   - post
 - type: heading
-  label: Products
+  label: Subscribe
 - type: directory
-  path: exampleSite/content/products
-  label: Product
+  path: exampleSite/content/subscribe
+  label: Subscribe
   create: documents
   match: "**/*"
   templates:

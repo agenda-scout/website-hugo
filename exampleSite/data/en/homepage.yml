@@ -7,7 +7,7 @@ banner:
   button:
    enable : true
    label : "Sign up for updates"
-   link : "products"
+   link : "subscribe"
 
 #################################### Subscribe ########################
 subscribe:
