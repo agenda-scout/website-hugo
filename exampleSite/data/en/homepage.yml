@@ -6,7 +6,7 @@ banner:
   image : "images/watch.png"
   button:
    enable : true
-   label : "Sign up for Agenda updates"
+   label : "Sign up for updates"
    link : "products"
 
 #################################### Subscribe ########################

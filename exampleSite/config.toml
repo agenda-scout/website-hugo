@@ -62,10 +62,10 @@ weight = 5
 # url = "blog"
 # weight = 1
 
-[[menu.footer]]
-name = "Contact"
-url = "contact"
-weight = 2
+# [[menu.footer]]
+# name = "Contact"
+# url = "contact"
+# weight = 2
 
 # [[menu.footer]]
 # name = "Terms & Conditions"
