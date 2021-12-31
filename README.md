@@ -27,7 +27,6 @@
 ---
 ## Features
 
-- Multiple language support (Fr, En) 
 - Google analytics  support
 - CSS and JS bundle with hugo pipe
 - Netlify settings predefine
